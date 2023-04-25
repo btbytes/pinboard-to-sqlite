@@ -14,7 +14,7 @@ pinboard-to-sqlite = "pinboard_to_sqlite.cli:cli"
 python = "^3.6"
 sqlite-utils = "^1.12.1"
 requests = "^2.22.0"
-click = "^7.0"
+click = "^8.0"
 python-dateutil = "^2.8.1"
 
 [tool.poetry.dev-dependencies]
